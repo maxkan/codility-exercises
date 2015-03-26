@@ -1,4 +1,4 @@
-package ex3;
+package lesson1.ex3;
 
 /**
  * Created by Max on 3/25/2015.
